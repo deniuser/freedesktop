@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: windows-latest
     env:
-      NGROK_TOKEN: 2XppA0sNn0JPpeC4pV4wsXp9dUH_6GmTERhziP9tyZGp8tPVd
+      NGROK_TOKEN: 2Xq9OAa58KLndfRa600ZVYxhJ3Y_y8VJ7LHj65PLRaB1BXwG
       RDP_PASSWORD: Secret123
     steps:
     - uses: actions/checkout@v2
